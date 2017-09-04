@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
