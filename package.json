@@ -18,7 +18,8 @@
     "start": "roadhog server",
     "build": "roadhog build",
     "lint": "eslint --ext .js src test",
-    "test": "jest"
+    "test": "jest",
+    "fix": "eslint --fix src"
   },
   "engines": {
     "install-node": "6.11.1"

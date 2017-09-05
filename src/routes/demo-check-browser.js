@@ -9,7 +9,7 @@ import { getUserAgent, isSafari, isChrome } from '../check-browser'
 const DemoCheckBrowser = () => {
   return (
     <div>
-      <h1>renderDemoCheckBrowser</h1>
+      <h1>DemoCheckBrowser</h1>
       <p>{getUserAgent()}</p>
       <p>isSafari: {isSafari()}</p>
       <p>isChrome: {isChrome()}</p>
